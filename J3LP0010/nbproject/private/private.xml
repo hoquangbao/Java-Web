@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/daos/EmotionDAO.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/daos/AccountDAO.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/invalid.html</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/member_detail_post.jsp</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/AddNewArticleServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/BackToHomeServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/admin_detail_post.jsp</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/access_denied.html</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/CreateArticleServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/login.html</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/utils/ExtractFileName.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/admin_home.jsp</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/daos/NotificationDAO.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/SeeNotificationServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/utils/PasswordUtils.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/daos/ArticleDAO.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/member_create_article.jsp</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/SeePostDetailServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/member_home.jsp</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/CommentServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/EmotionServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/daos/CommentDAO.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/DeleteArticleServlet.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/errorpage.jsp</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/web/member_notification.jsp</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/dtos/ArticleDTO.java</file>
+            <file>file:/C:/Users/anhnd/Documents/LabWeb/J3.L.P0010/J3LP0010/src/java/anhnd/servlets/SearchServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

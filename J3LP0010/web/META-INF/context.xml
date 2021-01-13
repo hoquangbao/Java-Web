@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J3LP0010" allowCasualMultipartParsing="true">
+    <Resource name="J3LP0010DS" type="javax.sql.DataSource" auth="Container"
+               factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+               driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+               url="jdbc:sqlserver://localhost:1433;databaseName=MiniSocialNetwork;instanceName=SQLEXPRESS"
+               username="sa" password="1234567"/>
+</Context>
